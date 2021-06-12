@@ -1,0 +1,15 @@
+.inline-block{
+    display: inline-block;
+    padding: 15px;
+    background-color: rgb(131, 131, 204);
+    margin-left: right;
+
+}
+.block_element {
+    width: 100%;
+    background-color: lightblue;
+    margin-left: auto;
+    margin: 0 auto;
+    text-align: center;
+    padding: 35px;
+}
