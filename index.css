@@ -1,15 +1,41 @@
+
 .inline-block{
     display: inline-block;
     padding: 15px;
     background-color: rgb(131, 131, 204);
-    margin-left: right;
-
+    margin-right: 15px;
+  
 }
 .block_element {
     width: 100%;
     background-color: lightblue;
-    margin-left: auto;
-    margin: 0 auto;
-    text-align: center;
+    margin-left: 20px;
+    margin:0 auto;
+    text-align:left;
     padding: 35px;
 }
+
+.left{
+    height:500px;
+    float:left;
+    background-color: rgb(231, 190, 207);
+    width: 30%;
+  
+    
+    
+    }
+.right{
+        height:500px;
+        float:right;
+        background-color: rgb(10, 193, 199);
+        width: 70%;
+        
+        
+        }
+.card {
+            display: inline-block;
+            border-radius: 5px;
+            height: 100px;
+            margin: 20px;
+            margin-top: 30px;
+          }
